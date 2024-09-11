@@ -2,7 +2,7 @@
 
 <h1 align="center">About Me<h1>
 
-
+  <h2 align="center">김영식 Kim Young Sik</h2>
 
 <h1 align=center>📚 STACKS</h1>
 
