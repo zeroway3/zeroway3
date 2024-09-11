@@ -9,6 +9,8 @@
                   개인역량도 중요하지만 의사소통에 중요성을 많이 느껴<br>
                   말 많은 소프트웨어 개발자가 되기를 희망합니다</p>
 
+
+
 <h1 align=center>📚 STACKS</h1>
 
 <div align=center> 
