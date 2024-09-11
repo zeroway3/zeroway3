@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=nice to meet you&color=timeGradient&height=300&section=header&fontSize=48&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Hello&color=timeGradient&height=300&section=header&fontSize=48&animation=fadeIn)
 
 # 김영식 포트폴리오
 
