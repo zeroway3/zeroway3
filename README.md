@@ -1,6 +1,6 @@
-# 김영식 포트폴리오
+![header](https://capsule-render.vercel.app/api?type=waving&text=nice to meet you&color=timeGradient&height=300&section=header&fontSize=48&animation=fadeIn)
 
-![header](https://capsule-render.vercel.app/api?type=waving&text=WELCOME&color=timeGradient&height=300&section=header&fontSize=72&animation=fadeIn)
+# 김영식 포트폴리오
 
 
 <div align=center><h1>📚 STACKS</h1></div>
