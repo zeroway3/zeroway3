@@ -1,6 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=Hello&color=timeGradient&height=300&section=header&fontSize=48&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Welcome&color=timeGradient&height=200&section=header&fontSize=64&animation=fadeIn)
 
-# 김영식 포트폴리오
+# About Me
+
 
 
 <div align=center><h1>📚 STACKS</h1></div>
