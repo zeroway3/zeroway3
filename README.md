@@ -29,6 +29,10 @@
  <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
   <br>
 
+## 🔤 주로 사용하는 언어
+
+![주로 사용하는 언어](https://github-readme-stats.vercel.app/api/top-langs/?username=dongkyukim1&layout=compact&theme=radical)
+
   ## 프로젝트 경험
 
   -Devhub프로젝트 링크:: https://github.com/zeroway3/devhub-server
