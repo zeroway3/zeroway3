@@ -31,7 +31,7 @@
 
   ## 프로젝트 경험
 
-  -Devhub프로젝트 링크:: https://github.com/zeroway3/devhub-server
+  -Devhub프로젝트 링크:: https://github.com/Devs-Of-Kosmo/devhub-server
 
   
   
