@@ -64,10 +64,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zeroway3&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeroway3&layout=compact&theme=gruvbox&hide_border=true" height="165" alt="Top langs" />
+<img src="https://github-readme-stats.vercel.app/api?username=zeroway3&show_icons=true&theme=gruvbox&hide_border=true" width="49%" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeroway3&layout=compact&theme=gruvbox&hide_border=true" width="49%" alt="Top langs" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zeroway3&theme=gruvbox&hide_border=true" height="165" alt="Streak stats" />
+<br>
+
+<img src="https://streak-stats.demolab.com?user=zeroway3&theme=gruvbox&hide_border=true" width="60%" alt="Streak stats" />
 
 </div>
 
@@ -75,6 +77,8 @@
 
 <div align="center">
 
-**📫 Contact** &nbsp;·&nbsp; [Portfolio](https://zeroway3.github.io) &nbsp;·&nbsp; [Email](mailto:ys0000250000@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6A13?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zeroway3.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zeroway3)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ys0000250000@gmail.com)
 
 </div>
