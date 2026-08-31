@@ -58,20 +58,7 @@
 ### VibeShield — AI 생성 코드 보안 검사 도구
 로컬 실행형 정적분석 도구로 환각 API 탐지율 83%(Semgrep·SonarQube 0%) 실측. 중소벤처기업부 「모두의 창업 프로젝트」 1차 선정.
 
-<br>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=zeroway3&show_icons=true&theme=gruvbox&hide_border=true" width="49%" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeroway3&layout=compact&theme=gruvbox&hide_border=true" width="49%" alt="Top langs" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=zeroway3&theme=gruvbox&hide_border=true" width="60%" alt="Streak stats" />
-
-</div>
 
 <br>
 
