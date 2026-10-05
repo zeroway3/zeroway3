@@ -29,7 +29,7 @@
 
 ## Projects
 
-**🔔 [AlphaAdopter](https://github.com/zeroway3/alpha-adopter)** — 관심 키워드·종목 뉴스를 실시간 감지해 AI로 필터링하는 알림 플랫폼 (`Kotlin` `Spring Boot` `Kafka` `MongoDB`) *· 진행 중*
+**🔔 [AlphaAdopter](https://github.com/zeroway3/alpha-adopter)** — 관심 키워드·종목 뉴스를 실시간 감지해 AI로 필터링하는 알림 플랫폼. RBAC·rate limiting 등 인증/인가 보안 강화, 관리자가 사용자를 지목하면 모델이 스스로 도구를 골라 조사하는 멀티스텝 AI 에이전트까지 확장 중 (`Kotlin` `Spring Boot` `Kafka` `MongoDB`) *· 진행 중*
 
 **🏃 [런덤메이트](https://apps.apple.com/kr/app/id6761368135)** — GPS 러닝 크루 매칭 앱, STOMP 실시간 채팅과 AWS ECS 배포 파이프라인 담당 (`Next.js` `STOMP` `AWS ECS`)
 
