@@ -32,7 +32,7 @@
 
 **🔔 [AlphaAdopter](https://github.com/zeroway3/alpha-adopter)** — 관심 키워드·종목 뉴스를 실시간 감지해 AI로 필터링하는 알림 플랫폼. RBAC·rate limiting 등 인증/인가 보안 강화, 관리자가 사용자를 지목하면 모델이 스스로 도구를 골라 반복 조사하는 멀티스텝 AI 에이전트와 그 정확도를 실측하는 평가 하네스까지 구현 (`Kotlin` `Spring Boot` `Kafka` `MongoDB`) *· 진행 중*
 
-**🛡 VibeShield → VibeSupervisor** — AI 생성 코드 보안 검사 도구로 모두의 창업 1차 선정(환각 API 탐지율 83% 실측) 후, 실사용자 피드백으로 "취약점을 못 찾는 것"보다 "고쳤다는 걸 증명 못 하는 것"이 진짜 문제임을 발견해 AI 코드 출처·검토 이력을 변조 불가능하게 기록하는 감독 도구로 전환, 2차 선정 (`TypeScript` `SQLite`) *· 개발 중*
+**🛡 VibeShield → VibeSupervisor** — AI 생성 코드 보안 검사 도구로 모두의 창업 1차 선정(환각 API 탐지율 83% 실측) 후, 실사용자 피드백으로 "취약점을 못 찾는 것"보다 "고쳤다는 걸 증명 못 하는 것"이 진짜 문제임을 발견해 AI 코드 출처·검토 이력을 해시 체인으로 기록해 변조를 감지하는 감독 도구로 전환, 2차 선정 (`TypeScript` `SQLite`) *· 개발 중*
 
 **🏃 [런덤메이트](https://apps.apple.com/kr/app/id6761368135)** — GPS 러닝 크루 매칭 앱, STOMP 실시간 채팅과 AWS ECS 배포 파이프라인 담당 (`Next.js` `STOMP` `AWS ECS`)
 
@@ -46,11 +46,11 @@
 |---|---|
 | 2025.02 – 현재 | **엑센솔루션** · Backend/Frontend Engineer (NestJS, Next.js, PostgreSQL, TimescaleDB) |
 | 2026.09 – 현재 | **AlphaAdopter** 사이드 프로젝트 진행 중 (Kotlin/Spring Boot) |
-| 2026.09 – 현재 | **VibeSupervisor** 개발 중 · 모두의 창업 프로젝트 2차 선정 |
+| 2026.10 – 현재 | **VibeSupervisor** 개발 중 · 모두의 창업 프로젝트 2차 선정 |
 | 2026.06 – 2026.08 | **VibeShield** 보안 아키텍처 담당 · 모두의 창업 프로젝트 1차 선정 |
 | 2026.01 – 2026.05 | **런덤메이트** Frontend(Web) 담당 · App Store·웹 동시 배포 |
 | 2024.03 – 2024.08 | 한국소프트웨어인재개발원 개발자 과정 수료 (960시간) |
-| 2025.02 | Singapore Institute of Technology 국제 협업 해커톤 |
+| 2025.01 | Singapore Institute of Technology 국제 협업 해커톤 |
 | 2024.10 | Brunel University 국제 협업 해커톤 |
 | 2019.09 – 2021.04 | 대한민국 육군 병장 만기 전역 |
 | 2018.03 – 2025.02 | 한남대학교 멀티미디어공학과 졸업 |
