@@ -4,7 +4,7 @@
 
 **백엔드 개발자**
 <br>
-서로 다른 규격의 외부 데이터를 단일 모델로 수렴시키고, 대량 유입 상황에서 정합성과 성능을 지키는 설계를 좋아합니다.
+
 
 <a href="https://zeroway3.github.io"><img src="https://img.shields.io/badge/-Portfolio-2563EB?style=flat-square&logo=googlechrome&logoColor=white" /></a>
 <a href="mailto:ys0000250000@gmail.com"><img src="https://img.shields.io/badge/-Email-161616?style=flat-square&logo=gmail&logoColor=white" /></a>
