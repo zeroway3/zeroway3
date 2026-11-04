@@ -2,9 +2,9 @@
 
 <div align="center">
 
-**다중 프로토콜 데이터를 하나의 파이프라인으로 모으는 백엔드 개발자**
+백엔드 개발자
 <br>
-서로 다른 규격의 외부 데이터를 단일 모델로 수렴시키고, 대량 유입 상황에서 정합성과 성능을 지키는 설계를 좋아합니다.
+
 
 <a href="https://zeroway3.github.io"><img src="https://img.shields.io/badge/-Portfolio-2563EB?style=flat-square&logo=googlechrome&logoColor=white" /></a>
 <a href="mailto:ys0000250000@gmail.com"><img src="https://img.shields.io/badge/-Email-161616?style=flat-square&logo=gmail&logoColor=white" /></a>
@@ -14,22 +14,27 @@
 
 <br>
 
-🛠 Tech Stack
-<p> <img src="https://skillicons.dev/icons?i=ts,nestjs,kotlin,spring,postgres,redis,mongodb,kafka&theme=dark" /><br> <img src="https://skillicons.dev/icons?i=nextjs,react,docker,aws,terraform,githubactions,prometheus,grafana&theme=dark" /> </p>
+## 손에 익은 도구들
 
-<sub>+ TimescaleDB  |  Modbus, MQTT, OPC-UA, BACnet, SNMP  |  Claude API, Voyage AI</sub>
-
-<br><br>
+|  |  |
+|---|---|
+| **Backend** | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) |
+| **Data** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![TimescaleDB](https://img.shields.io/badge/TimescaleDB-FDB515?style=flat-square&logo=timescale&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) |
+| **AI** | ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white) ![Agent](https://img.shields.io/badge/Agentic%20AI-2563EB?style=flat-square) ![Voyage AI](https://img.shields.io/badge/Voyage%20AI-161616?style=flat-square) |
+| **Infra** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
+| **Observability** | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) |
+| **Protocol** | ![Modbus](https://img.shields.io/badge/Modbus-4B5563?style=flat-square) ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white) ![OPC--UA](https://img.shields.io/badge/OPC--UA-4B5563?style=flat-square) ![BACnet](https://img.shields.io/badge/BACnet-4B5563?style=flat-square) ![SNMP](https://img.shields.io/badge/SNMP-4B5563?style=flat-square) |
 
 <br>
 
 ## Projects
 
-**🔔 [AlphaAdopter](https://github.com/zeroway3/alpha-adopter)** — 관심 키워드·종목 뉴스를 실시간 감지해 AI로 필터링하는 알림 플랫폼. RBAC·rate limiting 등 인증/인가 보안 강화, 관리자가 사용자를 지목하면 모델이 스스로 도구를 골라 반복 조사하는 멀티스텝 AI 에이전트와 그 정확도를 실측하는 평가 하네스까지 구현 (`Kotlin` `Spring Boot` `Kafka` `MongoDB`) *· 진행 중*
+**[AlphaAdopter](https://github.com/zeroway3/alpha-adopter)** — 관심 키워드·종목 뉴스를 실시간 감지해 AI로 필터링하는 알림 플랫폼. RBAC·rate limiting 등 인증/인가 보안 강화, 관리자가 사용자를 지목하면 모델이 스스로 도구를 골라 반복 조사하는 멀티스텝 AI 에이전트와 그 정확도를 실측하는 평가 하네스까지 구현 (`Kotlin` `Spring Boot` `Kafka` `MongoDB`) *· 진행 중*
 
-**🛡 VibeShield → VibeSupervisor** — AI 생성 코드 보안 검사 도구로 모두의 창업 1차 선정(환각 API 탐지율 83% 실측) 후, 실사용자 피드백으로 "취약점을 못 찾는 것"보다 "고쳤다는 걸 증명 못 하는 것"이 진짜 문제임을 발견해 AI 코드 출처·검토 이력을 해시 체인으로 기록해 변조를 감지하는 감독 도구로 전환, 2차 선정 (`TypeScript` `SQLite`) *· 개발 중*
+**VibeShield → VibeSupervisor** — AI 생성 코드 보안 검사 도구로 모두의 창업 1차 선정(환각 API 탐지율 83% 실측) 후, 실사용자 피드백으로 "취약점을 못 찾는 것"보다 "고쳤다는 걸 증명 못 하는 것"이 진짜 문제임을 발견해 AI 코드 출처·검토 이력을 해시 체인으로 기록해 변조를 감지하는 감독 도구로 전환, 2차 선정 (`TypeScript` `SQLite`) *· 개발 중*
 
-**🏃 [런덤메이트](https://apps.apple.com/kr/app/id6761368135)** — GPS 러닝 크루 매칭 앱, STOMP 실시간 채팅과 AWS ECS 배포 파이프라인 담당 (`Next.js` `STOMP` `AWS ECS`)
+**[런덤메이트](https://apps.apple.com/kr/app/id6761368135)** — GPS 러닝 크루 매칭 앱, STOMP 실시간 채팅과 AWS ECS 배포 파이프라인 담당 (`Next.js` `STOMP` `AWS ECS`)
 
 자세한 내용은 [포트폴리오](https://zeroway3.github.io)에서 확인할 수 있습니다.
 
