@@ -1,6 +1,6 @@
 ## Hi, I'm Kim Youngsik 👋
 
-백엔드/프론트엔드 개발자입니다.
+백엔드 개발자입니다.
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://zeroway3.github.io)
 [![Email](https://img.shields.io/badge/-Email-161616?style=flat-square&logo=gmail&logoColor=white)](mailto:ys0000250000@gmail.com)
